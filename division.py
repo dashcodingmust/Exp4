@@ -1,0 +1,1 @@
+def div(a,b): return b/a
